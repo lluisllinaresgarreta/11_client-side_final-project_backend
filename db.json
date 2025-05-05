@@ -1,14 +1,14 @@
 {
-    "tasks": [
+    "players": [
         {
             "id": 1,
-            "title": "Study json-server",
-            "completed": false
+            "name": "lewandoski",
+            "goals": 30
         },
         {
             "id": 2,
-            "title": "Complete the client-side project",
-            "completed": true
+            "name": "Pedri",
+            "goals": 15
         }
     ]
 }

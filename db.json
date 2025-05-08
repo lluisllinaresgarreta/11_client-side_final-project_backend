@@ -1,14 +1,25 @@
 {
-    "players": [
+    "books": [
         {
             "id": 1,
-            "name": "lewandoski",
-            "goals": 30
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "year": 1960,
+            "status": "read"
         },
         {
             "id": 2,
-            "name": "Pedri",
-            "goals": 15
+            "title": "1984",
+            "author": "George Orwell",
+            "year": 1949,
+            "status": "in progress"
+        },
+        {
+            "id": 3,
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "year": 1925,
+            "status": "pending"
         }
     ]
 }
